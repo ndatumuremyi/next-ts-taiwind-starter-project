@@ -1,5 +1,5 @@
 const endpoints = {
-  LOGIN: '/api/v1/auth/login',
+  LOGIN: '/api/v1/users/login',
 };
 
 export default endpoints;
